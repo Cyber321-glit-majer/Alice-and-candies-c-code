@@ -15,7 +15,6 @@ Input Format
 The first line contains an integer,n, the size of arr.
 
 Each of the next n lines contains an integer arr[i] indicating the rating of the student at position i
-//![2](https://user-images.githubusercontent.com/74072895/174042690-75782f85-532f-4f7b-af1c-fa5e3038f304.jpg)
 
 **Code:**
 ```
