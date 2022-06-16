@@ -1,4 +1,4 @@
-# Alice-and-candies-c-code
+# Alice-and-candies-c++-code
 competitive programming challenge
 
 **Problem statement:**
