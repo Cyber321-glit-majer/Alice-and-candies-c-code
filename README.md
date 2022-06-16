@@ -1,6 +1,6 @@
 # Alice-and-candies-c++-code
 competitive programming challenge
-
+![Screenshot](screenshot.png)
 **Problem statement:**
 Bunny is a teacher. She wants to give some candies to the children in her class. All the children sit in a line and each of them has a rating score according to his or her performance in the class. Bunny wants to give at least 1 candy to each child. If two children sit next to each other, then the one with the higher rating must get more candies. Bunny wants to minimize the total number of candies she must buy
 
